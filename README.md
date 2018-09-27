@@ -1,6 +1,6 @@
 Shopizer 2.2.0 (for java 1.8 +)
 -------------------
-
+new line: demo :lovely
 Java open source e-commerce software
 
 - Shopping cart
